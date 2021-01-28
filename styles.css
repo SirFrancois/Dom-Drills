@@ -1,27 +1,25 @@
 .h1{
-    text-decoration-color: aquamarine;
+    color: red;
 }
 
 .h2{
-    text-decoration-color: rebeccapurple ;
+    color: orange ;
 }
 
 .h3{
-    text-decoration-color: red;
+    color:yellow;
 }
 
 .h4{
-    text-decoration-color: rosybrown;
+    color: green;
 }
 
 .h5{
-    text-decoration-color: seagreen;
+    color: blue;
 }
 
 .h6{
-    text-decoration-color: yellow;
+    color: violet;
 }
 
-myArray[
-    solidcolors: solid red,blue,
-]
+

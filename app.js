@@ -1,8 +1,13 @@
+let arr = [];
+let arr1 = [];
+
+
 
 document.addEventListener("DOMContentLoaded", function() {
 
 let div = document.createElement('div');
     div.className = 'header-container';
+    
 
 
 
